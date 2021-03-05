@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="author">Ekaitz Torregrosa 2021</string>
+    <string name="play">Jolastu</string>
+    <string name="punctuation">Puntuazioak</string>
+    <string name="credits">Kredituak</string>
+    <string name="modulo">Prog Mult Móviles - 2DAM</string>
+    <string name="easy">Erraza (2x4)</string>
+    <string name="medium">Erdia (3x6)</string>
+    <string name="hard">Zaila (4x6)</string>
+    <string name="moves">Mugi: </string>
+    <string name="pairs">Bikote: </string>
+    <string name="temporizador">00:30</string>
+    <string name="user">Izena:</string>
+    <string name="dificulty">Zailtasuna:</string>
+    <string name="time">Denbora:</string>
+    <string name="movesTotal">Mugimendu:</string>
+    <string name="points">Puntuak:</string>
+    <string name="username">Izena</string>
+    <string name="nombreusuario">Izena</string>
+    <string name="aceptarDialog">Onartu</string>
+    <string name="victoria">Irabazi duzu :)</string>
+    <string name="derrota">Denbora amaitu da :(</string>
+    <string name="puntuacionregistrada">Puntuazioa erregistratu da</string>
+</resources>

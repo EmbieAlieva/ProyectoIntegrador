@@ -1,0 +1,1 @@
+https://servermemoryapp.herokuapp.com/punctuations

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reinicio"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        app:showAsAction="always" />
+    <item android:title="@string/easy"
+        android:id="@+id/optionEasy" />
+    <item android:title="@string/medium"
+        android:id="@+id/optionMedium" />
+    <item android:title="@string/hard"
+        android:id="@+id/optionHard" />
+
+</menu>

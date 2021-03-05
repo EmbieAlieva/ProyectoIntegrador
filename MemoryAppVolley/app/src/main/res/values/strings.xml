@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="author">Ekaitz Torregrosa 2021</string>
+    <string name="play">Paly</string>
+    <string name="punctuation">Punctuation</string>
+    <string name="credits">Credits</string>
+    <string name="modulo">Prog Mult Móviles - 2DAM</string>
+    <string name="easy">Easy (2x4)</string>
+    <string name="medium">Medium (3x6)</string>
+    <string name="hard">Hard (4x6)</string>
+    <string name="moves">Moves: </string>
+    <string name="pairs">Pairs: </string>
+    <string name="temporizador">00:30</string>
+    <string name="user">Name:</string>
+    <string name="dificulty">Dificulty:</string>
+    <string name="time">Time:</string>
+    <string name="movesTotal">Moves:</string>
+    <string name="points">Points:</string>
+    <string name="username">Name</string>
+    <string name="nombreusuario">Enter username</string>
+    <string name="aceptarDialog">Accept</string>
+    <string name="victoria">You win :)</string>
+    <string name="derrota">Time over :(</string>
+    <string name="puntuacionregistrada">Punctuation registered</string>
+</resources>
